@@ -31,7 +31,7 @@ def count_digits(num):
     while num > 0:
         num = num / 10
         count += 1
-        print(count)   
+           
 
     # Return the total count of digits
     return count
